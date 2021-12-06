@@ -1,4 +1,5 @@
-# IoTeX Devboard
+# IoTeX Devboard 
+![Perspective](resources/IoTeX-Devboard.png){:height="20%" width="20%"}
 
 ## Open Source ESP32-C3 Dev-Board “Powered by IoTeX”
 
