@@ -1,9 +1,11 @@
 # IoTeX Devboard 
-![Perspective](resources/IoTeX-Devboard.png){:height="20%" width="20%"}
 
 ## Open Source ESP32-C3 Dev-Board “Powered by IoTeX”
 
 Schematics, BOM and firmware examples for the IoTeX oriented Devboard
+
+
+![Perspective](resources/IoTeX-Devboard.png)
 
 
 ## In short
@@ -72,9 +74,6 @@ You can take it, modify it and build any kind of DIY or commercial product from 
 As of today the PCB is in the state of: **`design completed`**
 
 Note: the current PCB layout is not part of the open source license. However if you are familiar with KiCad then you can take the Kicad schematic file, modify it for your needs and re-route the layout.
-
-### Rendering
-![Perspective](resources/IoTeX-Devboard.png)
 
 ### Rendering Front
 ![Front rendering](resources/IoTeX-Devboard_Front.png)
