@@ -63,7 +63,9 @@ The possibility to power it via a simple LiPo battery in addition to the Low pow
 
 
 ## The schematics
-The current version of the [schematics](schematic/IoTex-Devboard.pdf) is completely open source and available under the Apache License !
+The current version of the [schematics](schematic/IoTex-Devboard.pdf) is completely open source and available under the Apache 2 License !
+
+Under the same directory you can find the [KiCad](https://www.kicad.org/) schematic file.
 
 You can take it, modify it and build any kind of DIY or commercial product from it.
 
