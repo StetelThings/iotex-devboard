@@ -73,7 +73,7 @@ You can take it, modify it and build any kind of DIY or commercial product from 
 
 ## The Board PCB 
 
-As of today the PCB is in the state of: **`in production`**
+As of today the PCB is in the state of: **`ready for assembling`**
 
 Note: the current PCB layout is not part of the open source license. However if you are familiar with KiCad then you can take the Kicad schematic file, modify it for your needs and re-route the layout.
 
