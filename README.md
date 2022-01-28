@@ -81,6 +81,13 @@ Note: the current PCB layout is not part of the open source license. However if 
 ![Front rendering](resources/IoTeX-Devboard_Front.png)
 
 ### Rendering Back
-![BAck rendering](resources/IoTeX-Devboard_Back.png)
+![Back rendering](resources/IoTeX-Devboard_Back.png)
+
+### The real PCBs
+![Back rendering](resources/IoTeX-Pcbs.png)
+
+
+
+
 
 
