@@ -17,7 +17,7 @@ The possibility to power it via a simple LiPo battery in addition to the Low pow
 
 ## PLAN
 - [x] Phase 0: First Design schematics and route Pcb layout
-- [-] Phase 1: Build first prototype boards
+- [x] Phase 1: Build first prototype boards
 - [ ] Phase 2: Smoke tests, Debugging, Troubleshooting and Test Firmware
 
 ---
