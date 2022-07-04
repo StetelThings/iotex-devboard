@@ -4,8 +4,7 @@
 
 Schematics, BOM and firmware examples for the IoTeX oriented Devboard
 
-
-![Perspective](resources/IoTeX-Devboard.png)
+![Description](resources/IoTeX-Devboard-Description.png)
 
 
 ## In short
@@ -17,7 +16,7 @@ The possibility to power it via a simple LiPo battery in addition to the Low pow
 
 ## PLAN
 - [x] Phase 0: First Design schematics and route Pcb layout
-- [ ] Phase 1: Build first prototype boards
+- [x] Phase 1: Build first prototype boards
 - [ ] Phase 2: Smoke tests, Debugging, Troubleshooting and Test Firmware
 
 ---
@@ -73,14 +72,23 @@ You can take it, modify it and build any kind of DIY or commercial product from 
 
 ## The Board PCB 
 
-As of today the PCB is in the state of: **`design completed`**
+As of today the PCB is in the state of: **`first board assembled`**
 
 Note: the current PCB layout is not part of the open source license. However if you are familiar with KiCad then you can take the Kicad schematic file, modify it for your needs and re-route the layout.
+
+### The first assembled PCB
+![Assembled](resources/IoTeX-Devboard-0.jpg)
+
+### Board Rendering Perspective 
+![Perspective](resources/IoTeX-Devboard.png)
 
 ### Rendering Front
 ![Front rendering](resources/IoTeX-Devboard_Front.png)
 
 ### Rendering Back
-![BAck rendering](resources/IoTeX-Devboard_Back.png)
+![Back rendering](resources/IoTeX-Devboard_Back.png)
+
+### The real PCBs
+![Back rendering](resources/IoTex-Pcbs.jpeg)
 
 
